@@ -1,0 +1,6 @@
+{
+  "name": "Mi Día",
+  "description": "Una hermosa aplicación básica con diseño elegante para organizar tu día, llevar registros y personalizar tu espacio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
